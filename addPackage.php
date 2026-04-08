@@ -2,7 +2,7 @@
 require 'connect.php';
 ?>
 
-<!--store package details-->
+<!--store package detailss-->
 <?php
 
 if (isset($_POST["submit"])) {
